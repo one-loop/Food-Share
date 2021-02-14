@@ -42,12 +42,9 @@ Feel free to follow along by viewing the app in the browser, or installing it on
 - Before creating this app, I knew almost nothing about app development, so it's safe to say I've learned a lot this weekend. Learning new ways to make apps have opened up myself to so many new project that I could not have otherwise created.
 - Creating a fully fledged app in 24 Hours would not have been possible if I didn't use glide apps, especially not alone. It makes making an app much faster and easier, so I could focus more time on the actual idea and solution.
 
-
-Crafted by Saad S
-
-
-
 <p align="center">
-  <img src="https://i.imgur.com/Td28du4.png" alt="Alignment"/>
+  <img src="https://i.imgur.com/EDvudBM.png" alt="App Screenshot">
 </p>
 
+
+Crafted by Saad S

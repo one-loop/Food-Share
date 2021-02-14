@@ -2,10 +2,8 @@
 An app that allows restaurants to give away their leftovers for free/at a discounted price to users
 This app was built using glide apps, which uses google sheets to construct apps.
 
-![App Screenshot](https://i.imgur.com/Td28du4.png)
-
 <p align="center">
-  <img src="https://i.imgur.com/Td28du4.png">
+  <img src="https://i.imgur.com/Td28du4.png" alt="App Screenshot">
 </p>
 
 ## 📕 Description of Problem and Solution

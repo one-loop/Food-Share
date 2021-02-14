@@ -42,3 +42,10 @@ Feel free to follow along by viewing the app in the browser, or installing it on
 
 
 Crafted by Saad S
+
+
+
+<p align="center">
+  <img src="https://i.imgur.com/Td28du4.png" alt="Alignment"/>
+</p>
+
